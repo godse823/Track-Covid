@@ -1,0 +1,3 @@
+Build web application} that shows India's covid cases data and also it fetches the state wise data of the confirmed, recovered, death cases.
+Developed frontend UI using React framework and bootstrap is used for designing and also used in built covid Library for fetching data.
+Also implemented a searching feature to access statewise data.
