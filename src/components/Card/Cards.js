@@ -121,7 +121,7 @@ function Cards({data}) {
         <MDBFooter className={styles.black1}>
         <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: Made by YOGESH & SHAILESH
+          &copy; {new Date().getFullYear()} Copyright : Made by SUMIT & RUSHIKESH
         </MDBContainer>
       </div>
       </MDBFooter>
